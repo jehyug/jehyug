@@ -9,6 +9,8 @@
 @import "friends.css";
 @import "css/user-component.css";
 @import "css/badge.css";
+@import "css/find.css";
+@import "css/red-point.css";
 
 body {
   font-family: "Open Sans", sans-serif;
